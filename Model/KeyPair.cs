@@ -1,5 +1,4 @@
-﻿
-namespace RSAEncryption
+﻿namespace RSAEncryption.Model
 {
     public class KeyPair
     {

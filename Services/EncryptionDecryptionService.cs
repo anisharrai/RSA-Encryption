@@ -1,7 +1,8 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
+using RSAEncryption.Model;
 
-namespace RSAEncryption
+namespace RSAEncryption.Services
 {
     public class EncryptionDecryptionService
     {
